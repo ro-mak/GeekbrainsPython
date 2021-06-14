@@ -1,0 +1,5 @@
+Ivanov 200000
+Sidorov 160000
+Petrov 350000
+Petrovich 15000
+Mihalich 13500
