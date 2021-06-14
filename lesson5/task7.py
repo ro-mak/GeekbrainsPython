@@ -20,3 +20,4 @@ profit_dict["average_profit"] = total_profit / profited_firms_count
 result_list.append(firm_dict)
 result_list.append(profit_dict)
 print(result_list)
+firm_file.close()
